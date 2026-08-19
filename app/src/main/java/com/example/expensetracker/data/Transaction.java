@@ -2,7 +2,7 @@ package com.example.expensetracker.data;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
-
+//added a comment
 @Entity(tableName = "transactions")
 public class Transaction {
 
